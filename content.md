@@ -1,6 +1,5 @@
 ## Device list
 
-<div align="center">
   
 
 
@@ -13,5 +12,3 @@
 | ----------------------------------- |
 | <img src="https://static.toiimg.com/thumb/resizemode-4,msid-92077646,imgsize-500,width-800/92077646.jpg" alt="devon" width="200px" height="auto">
 
-</div>
- 
