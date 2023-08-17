@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -25,6 +24,19 @@
       img {
         max-width: 100%;
       }
+    }
+
+    .Blurbox{
+      width: 80%;
+  max-width: 800px;
+  margin: 50px auto;
+  padding: 20px;
+      background: rgba( 255, 255, 255, 0.35 );
+box-shadow: 0 8px 32px 0 rgba(199, 199, 199, 0.37);
+backdrop-filter: blur( 3px );
+-webkit-backdrop-filter: blur( 3px );
+border-radius: 10px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
     }
 
   body {
@@ -116,22 +128,32 @@
   transform: scale(1.5); 
 }
 
+.prev {
+  transition: transform .2s;
+  
+  height: auto;
+  margin: 0 auto;
+}
+    .prev:hover{
+      transform: scale(1.05);
+    }
+
 </style>
 <body>
 <center>
   <div class="acontainer">
-    <h1><a href="https://cumyui.github.io/"><img src="xbanner.jpg" width="2050px"></a></h1>
+    <h1><a href="https://cumyui.github.io/"><img src="xbanner.jpg" class="prev" width="2050px"></a></h1>
 <br></div>
 
 <div class="container">
     <h1>💖 Maintainers 💖</h1>
-<hr>
+
 </div>
 <div class="container">
 <table>
       <thead>
         <tr>
-          <th><div class="zoom container"><a href="https://t.me/Anandbizuka"><img src="/team/Anand.jpg" class="avatar" alt="faceplate"></a>Anand>_ <p class="container">📱Device: <i>legend</i></p></div></th>
+          <th><div class="zoom Blurbox"><a href="https://t.me/Anandbizuka"><img src="/team/Anand.jpg" class="avatar" alt="faceplate"></a>Anand>_ <p class="container">📱Device: <i>legend</i></p></div></th>
           </tr>
       </thead>
     </table>
@@ -140,7 +162,7 @@
 <table>
       <thead>
         <tr>
-          <th><div class="zoom container"><a href="https://t.me/semisapeol"><img src="/team/radhe.jpg" class="avatar" alt="faceplate"></a>Radhe Bhai  <p class="container">📱Device: Hanoip_1</p></div></th>
+          <th><div class="zoom Blurbox"><a href="https://t.me/semisapeol"><img src="/team/radhe.jpg" class="avatar" alt="faceplate"></a>Radhe Bhai  <p class="container">📱Device: Hanoip_1</p></div></th>
           </tr>
       </thead>
     </table>
@@ -149,7 +171,7 @@
 <table>
       <thead>
         <tr>   
-<th><div class="zoom container"><a href="https://t.me/LegendValt"><img src="/team/LegendValt.jpg" class="avatar" alt="faceplate"></a>LegendValt <p class="container">📱Device: Hanoip_2</p></div></th> 
+<th><div class="zoom Blurbox"><a href="https://t.me/LegendValt"><img src="/team/LegendValt.jpg" class="avatar" alt="faceplate"></a>LegendValt <p class="container">📱Device: Hanoip_2</p></div></th> 
           </tr>
       </thead>
     </table>
@@ -158,7 +180,7 @@
 <table>
       <thead>
         <tr>      
-          <th><div class="zoom container"><a href="https://t.me/GanyuLover89"><img src="/team/GanyuLover89.jpg" class="avatar" alt="faceplate"></a>GanyuLover89 <p class="container">📱Device: Dubai</p></div></th>
+          <th><div class="zoom Blurbox"><a href="https://t.me/GanyuLover89"><img src="/team/GanyuLover89.jpg" class="avatar" alt="faceplate"></a>GanyuLover89 <p class="container">📱Device: Dubai</p></div></th>
           </tr>
       </thead>
     </table>
@@ -167,7 +189,7 @@
 <table>
       <thead>
         <tr>   
-<th><div class="zoom container"><a href="https://t.me/Abhishek699"><img src="/team/Abhishek699.jpg" class="avatar" alt="faceplate"></a>Abhishek699 <p class="container">📱Device: Hawao</p></div></th>
+<th><div class="zoom Blurbox"><a href="https://t.me/Abhishek699"><img src="/team/Abhishek699.jpg" class="avatar" alt="faceplate"></a>Abhishek699 <p class="container">📱Device: Hawao</p></div></th>
           </tr>
       </thead>
     </table>
@@ -176,7 +198,7 @@
 <table>
       <thead>
         <tr>       
-          <th><div class="zoom container"><a href="https://t.me/magnxdav"><img src="/team/magnxdav.jpg" class="avatar" alt="faceplate"></a>magnxdav <p class="container">📱Device: Devon</p></div></th>
+          <th><div class="zoom Blurbox"><a href="https://t.me/magnxdav"><img src="/team/magnxdav.jpg" class="avatar" alt="faceplate"></a>magnxdav <p class="container">📱Device: Devon</p></div></th>
           </tr>
       </thead>
     </table>
@@ -186,6 +208,7 @@
 </body>
 <footer>
 <center class="container">
-<hr>
+  <br>
 Copyright © 2023 - 2024: MYUi_Custom
+<br>
 </center>
