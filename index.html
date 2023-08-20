@@ -1,211 +1,59 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
 <head>
+  <!--
+    If you are serving your web app in a path other than the root, change the
+    href value below to reflect the base path you are serving from.
+
+    The path provided below has to start and end with a slash "/" in order for
+    it to work correctly.
+
+    For more details:
+    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
+
+    This is a placeholder for base href that will be replaced by the value of
+    the `--base-href` argument provided to `flutter build`.
+  -->
+  <base href="">
+
   <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  </head>
-	<title>Hello, Vyoager</title>
-<style>
-  body {
-      font-family: Arial, sans-serif;
-      background-color: #f5f5f5;
-      margin: 0;
-      padding: 0;
-      background-image:url("bgwp.jpg");
-  
-      background-size:cover;
-    }
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <meta name="description" content="A new Flutter project.">
 
-    .acontainer {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: space-between;
-    }
+  <!-- iOS meta tags & icons -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="cumyui">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
 
-.container {
-  width: 80%;
-  max-width: 800px;
-  margin: 50px auto;
-  padding: 20px;
-  border-radius: 15px;
-  background-color: #f0f0f0;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-  
-}
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png"/>
 
-.Transparantbox {
-  width: 80%;
-  max-width: 800px;
-  margin: 50px auto;
-  padding: 20px;
-  border-radius: 15px;
-  background-color: #f0f0f0;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
-  opacity: 20%;
-}
+  <title>cumyui</title>
+  <link rel="manifest" href="manifest.json">
 
-    h1, h2 {
-      color: #333;
-      text-align: center;
-      width: 100%;
-    }
-
-    .table-container {
-      width: calc(50% - 10px);
-      margin-bottom: 20px;
-      background-color: #fff;
-      border-radius: 10px;
-      overflow: hidden;
-      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-    }
-
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    th, td {
-      padding: 12px 15px;
-      text-align: left;
-    }
-
-    th {
-      background-color: #f2f2f2;
-      font-weight: bold;
-    }
-
-    
-
-    img {
-      max-width: 100%;
-      max-height: 500px;
-      border-radius: 8px;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    }
-
-    .Blurbox{
-      width: 80%;
-  max-width: 800px;
-  margin: 50px auto;
-  padding: 20px;
-      background: rgba( 255, 255, 255, 0.35 );
-box-shadow: 0 8px 32px 0 rgba(199, 199, 199, 0.37);
-backdrop-filter: blur( 3px );
--webkit-backdrop-filter: blur( 3px );
-border-radius: 10px;
-border: 1px solid rgba( 255, 255, 255, 0.18 );
-    }
-
-    .prev {
-  transition: transform .2s;
-  
-  height: auto;
-  margin: 0 auto;
-}
-    .prev:hover{
-      transform: scale(1.05);
-    }
-
-	.zoom {
-  transition: transform .2s;
-  
-  height: auto;
-  margin: 0 auto;
-}
-
-.zoom:hover {
-  transform: scale(1.5); 
-}
-</style>
+  <script>
+    // The value below is injected by flutter build, do not touch.
+    const serviceWorkerVersion = "1470189069";
+  </script>
+  <!-- This script adds the flutter initialization JS code -->
+  <script src="flutter.js" defer></script>
+</head>
 <body>
-  <div class="acontainer">
-    <h1><a href="https://cumyui.github.io/"><img src="xbanner.jpg" class="prev" width="2050px"></a></h1>
-<br>
-
-<div class="Blurbox">
-<p>
-	<center>This website is made and Maintained by <div class="zoom"><a href="https://t.me/semisapeol" >Radhe Bhai</a></div></center>
-MYUi [Custom]<br>
-A Moto OEM Port Series based on Flagship devices, which offers a handfull of UI enhancement & around the stock Android with great "Performance" & "Stability".<br>
-Made with ♥ by The Anand >_ 
-</p><div class="Blurbox zoom"><center>
-<h3 class="zoom"> <a href="">  Home  </a><a href="team.html">  Team  </a><a href="https://www.paypal.com/paypalme/anandssmpt	">  Donate  </a><a href="https://t.me/HanoipScreenshot/260?single">  Gallery  </a> </h3>
-</center></div></div>
-
-
-
-<div class="container prev">
-    <h1>Enter Custom MYUi With Moto Devices</h1>
-    <div class=" prev">
-    <table>
-      <thead>
-        <tr>
-          <th><img src="face.jpg" alt="faceplate" class="prev "></th>
-          <th><img src="face3.jpg" alt="faceplate" class="prev "></th> 
-          <th><img src="face3_1.jpg" alt="faceplate" class="prev "></th>         
-          </tr>
-      </thead>
-    </table></div>
-  </div>
-<br>
-    <h2 class="container">Current Device List >_ </h2>
-<div class="container">
-    <table>
-      <thead>
-        <tr>
-          <th><h1>Hanoip</h1><a href="https://devuploads.com/wufgopktbgns"><img src="https://cdn-icons-png.flaticon.com/512/724/724933.png" class="zoom" width="30px"></a></th></div>
-          <th><h1>Dubai</h1><a href="https://devuploads.com/fo2khgay924o"><img src="https://cdn-icons-png.flaticon.com/512/724/724933.png" class="zoom"width="30px"></a></th>
-          </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><img src="https://static.toiimg.com/thumb/resizemode-4,msid-82583635,imgsize-500,width-800/82583635.jpg" class="prev" alt="Hanoip" /></td>
-          <td><img src="https://static.toiimg.com/thumb/resizemode-4,msid-87777804,imgsize-500,width-800/87777804.jpg" class="prev" alt="Dubai" /></td>
-          
-        </tr>
-      </tbody>
-    </table>
-</div>
-<div class="container">
- <table>
-      <thead>
-        <tr>
-          <th><h1>Hawao</h1><a href="https://devuploads.com/uemonwb8ymij"><img src="https://cdn-icons-png.flaticon.com/512/724/724933.png" class="zoom" width="30px"></a></th>
-	  <th><h1>Devon</h1><a href="https://devuploads.com/u6j71pse38ph"><img src="https://cdn-icons-png.flaticon.com/512/724/724933.png" class="zoom" width="30px"></a></th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr><td><img src="https://m.media-amazon.com/images/I/51f2R5m1fVL.jpg" class="prev" alt="Hawao" /></td>
-          <td><img src="https://static.toiimg.com/thumb/resizemode-4,msid-92077646,imgsize-500,width-800/92077646.jpg" class="prev" alt="Devon" /></td>
-
-        </tr>
-      </tbody>
-    </table>
-	</div>
-	  <div class="container">
-	 <table>
-      <thead>
-        <tr>
-          <th><h1>xpeng</h1><a href="https://devuploads.com/veha1xwwlqiu"><img src="https://cdn-icons-png.flaticon.com/512/724/724933.png" class="zoom" width="30px"></a></th></div>
-          <th><h1>rhode</h1><a href="https://devuploads.com/bkzqglroxxoc"><img src="https://cdn-icons-png.flaticon.com/512/724/724933.png" class="zoom" width="30px"></a></th>
-          </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><img src="https://www.gizmochina.com/wp-content/uploads/2021/11/2-3-500x500.jpg" class="prev" alt="xpeng" /></td>
-          <td><img src="https://motorolain.vtexassets.com/arquivos/ids/157174-800-auto?width=800&height=auto&aspect=true" class="prev" alt="rhode" /></td>
-          
-        </tr>
-      </tbody>
-    </table>
-</div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-  <script>anchors.add();</script>
-
-
+  <script>
+    window.addEventListener('load', function(ev) {
+      // Download main.dart.js
+      _flutter.loader.loadEntrypoint({
+        serviceWorker: {
+          serviceWorkerVersion: serviceWorkerVersion,
+        },
+        onEntrypointLoaded: function(engineInitializer) {
+          engineInitializer.initializeEngine().then(function(appRunner) {
+            appRunner.runApp();
+          });
+        }
+      });
+    });
+  </script>
 </body>
 </html>
