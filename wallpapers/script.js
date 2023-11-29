@@ -3,11 +3,11 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Replace the placeholder URLs with the actual URLs of your images
     const imageUrls = [
-        'https://github.com/cumyui/cumyui.github.io/blob/main/wallpapers/0001.png?raw=true',
-        'https://github.com/cumyui/cumyui.github.io/blob/main/wallpapers/0002.png?raw=true',
-        'https://github.com/cumyui/cumyui.github.io/blob/main/wallpapers/0003.png?raw=true',
-        'https://github.com/cumyui/cumyui.github.io/blob/main/wallpapers/0004.png?raw=true',
-        'https://github.com/cumyui/cumyui.github.io/blob/main/wallpapers/0005.png?raw=true',
+        '0001.png',
+        '0002.png',
+        '0003.png',
+        '0004.png',
+        '0005.png',
         // Add more image URLs as needed
     ];
 
