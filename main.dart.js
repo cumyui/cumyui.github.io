@@ -67828,7 +67828,7 @@ else return s.e},
 $S:428}
 A.BW.prototype={
 L(a){var s=null
-return A.ah1(A.f2(A.a([B.ML,B.MK,B.MI,A.nT(A.aaR(A.f1(120),A.tU(!1,!0,B.AO,s,!0,s,s,s,s,s,s,s,s,s,new A.Rt(),s,s,s,s)),s,s)],t.F),B.ak,B.ar,B.a1))}}
+return A.ah1(A.f2(A.a([B.MI,B.ML,B.MJ,A.nT(A.aaR(A.f1(120),A.tU(!1,!0,B.AO,s,!0,s,s,s,s,s,s,s,s,s,new A.Rt(),s,s,s,s)),s,s)],t.F),B.ak,B.ar,B.a1))}}
 A.Rt.prototype={
 $0(){return A.fy(A.cu("https://devuploads.com/users/Anandbizuka",0,null))},
 $S:0}
@@ -70615,8 +70615,8 @@ B.wg=new A.f0(B.N,null,null,B.wf,null)
 B.FA=new A.aQ(B.k_,B.wg,null)
 B.y_=new A.hs(B.N,null,null,B.FA,null)
 B.aD=new A.aN(8,8,8,8)
-B.MJ=new A.fm("[Supported Device List]",null,null,null,null,null,null,null,null)
-B.Fy=new A.aQ(B.aD,B.MJ,null)
+B.MK=new A.fm("[Supported Device List]",null,null,null,null,null,null,null,null)
+B.Fy=new A.aQ(B.aD,B.MK,null)
 B.y0=new A.hs(B.N,null,null,B.Fy,null)
 B.y1=new A.rm(null,null,null,null,null,null,null,null,null)
 B.y2=new A.ro(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -72700,11 +72700,11 @@ B.M_=new A.p(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.LS=new A.p(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelMedium",null,null,null,null)
 B.Lw=new A.p(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.MG=new A.cH(B.Lf,B.Mp,B.Ma,B.K3,B.M2,B.Ld,B.Mr,B.Kr,B.KX,B.LW,B.JW,B.Mb,B.M_,B.LS,B.Lw)
-B.MI=new A.fm('\n\nDisclaimer:\nBy installing and using [ MYUI Custom ], you acknowledge and agree to the following:\n\n1. Warranty Disclaimer:\n[ MYUI Custom ] is provided "as-is" without any warranties of any kind, either expressed or implied, including but not limited to fitness for a particular purpose, accuracy, or reliability.\n\n2. Data Loss and Device Damage:\nThe installation and use of OEM Ports carry inherent risks, including the potential loss of data and damage to your device. You understand and accept that neither the developers nor the contributors of [ MYUI Custom ] shall be held responsible for any loss of data or damage to your device.\n\n3. No Official Support:\n\n[ MYUI Custom ] is not an official release by Motorola LLC . Any support provided is on a best-effort basis and may not be as comprehensive as official support.\n\n4. Security and Stability:\n\nOEM Ports may have security vulnerabilities or stability issues that could compromise the performance and functionality of your device. Selinux of is Permissive ( Google for that ). You acknowledge that you are installing [ MYUI Custom ] at your own risk.\n\n5. Backup and Recovery:\n\nIt is strongly recommended that you backup your data and create a recovery plan before installing [ MYUI Custom ]. In the event of problems, you may need to revert to the original software.\n\n6. User Responsibility:\n\nYou assume full responsibility for any consequences resulting from the installation and use of [ MYUI Custom ]. This includes understanding and accepting the risks associated with custom ROMs.\n\n7. Legal Implications:\n\nSome actions, including unlocking bootloaders and installing OEM Ports , may void warranties and violate terms of service or user agreements with device manufacturers. You are solely responsible for any legal consequences arising from such actions.\n\n\nBy proceeding with the installation of [ MYUI Custom ], you acknowledge that you have read, understood, and agreed to this disclaimer.\n\n- [ MYUI Custom ]\n',null,B.vK,null,null,null,null,null,null)
-B.KT=new A.p(!0,null,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.MK=new A.fm("[Scroll Down To Download Link]",null,B.KT,null,null,null,null,null,null)
-B.KU=new A.p(!0,null,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.ML=new A.fm("Get MYUi For your Device",null,B.KU,null,null,null,null,null,null)
+B.KT=new A.p(!0,null,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.MI=new A.fm("Get myui for your Device",null,B.KT,null,null,null,null,null,null)
+B.MJ=new A.fm('\n\nDisclaimer:\nBy installing and using [ MYUI Custom ], you acknowledge and agree to the following:\n\n1. Warranty Disclaimer:\n[ MYUI Custom ] is provided "as-is" without any warranties of any kind, either expressed or implied, including but not limited to fitness for a particular purpose, accuracy, or reliability.\n\n2. Data Loss and Device Damage:\nThe installation and use of OEM Ports carry inherent risks, including the potential loss of data and damage to your device. You understand and accept that neither the developers nor the contributors of [ MYUI Custom ] shall be held responsible for any loss of data or damage to your device.\n\n3. No Official Support:\n\n[ MYUI Custom ] is not an official release by Motorola LLC . Any support provided is on a best-effort basis and may not be as comprehensive as official support.\n\n4. Security and Stability:\n\nOEM Ports may have security vulnerabilities or stability issues that could compromise the performance and functionality of your device. Selinux of is Permissive ( Google for that ). You acknowledge that you are installing [ MYUI Custom ] at your own risk.\n\n5. Backup and Recovery:\n\nIt is strongly recommended that you backup your data and create a recovery plan before installing [ MYUI Custom ]. In the event of problems, you may need to revert to the original software.\n\n6. User Responsibility:\n\nYou assume full responsibility for any consequences resulting from the installation and use of [ MYUI Custom ]. This includes understanding and accepting the risks associated with custom ROMs.\n\n7. Legal Implications:\n\nSome actions, including unlocking bootloaders and installing OEM Ports , may void warranties and violate terms of service or user agreements with device manufacturers. You are solely responsible for any legal consequences arising from such actions.\n\n\nBy proceeding with the installation of [ MYUI Custom ], you acknowledge that you have read, understood, and agreed to this disclaimer.\n\n- [ MYUI Custom ]\n',null,B.vK,null,null,null,null,null,null)
+B.KU=new A.p(!0,null,null,null,null,null,10,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.ML=new A.fm("[Scroll Down To Download Link]",null,B.KU,null,null,null,null,null,null)
 B.PH=new A.a1T(0,"system")
 B.Fn=new A.k(0.056,0.024)
 B.Fg=new A.k(0.108,0.3085)
