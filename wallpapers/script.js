@@ -8,6 +8,12 @@ document.addEventListener('DOMContentLoaded', function () {
         '0003.png',
         '0004.png',
         '0005.png',
+        '0006.png',
+        '0007.png',
+        '0008.png',
+        '0009.png',
+        '0010.png',
+        '0011.png',
         // Add more image URLs as needed
     ];
 
