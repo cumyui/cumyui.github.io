@@ -15,9 +15,9 @@
 
 
 ## Supported Device List 
-|	.	|	.	|	.	|
-|--------------------------|--------------------------|---------------------------|
+
 | Devon | Xpeng | Corfur |
+|---|---|---|
 | ![](devices/Devon/1.png) | ![](devices/xpeng/1.png) | ![](devices/Corfur/1.png) |
 | Dubai | Hanoip | hawao |
 | ![](devices/Dubai/1.png) | ![](devices/Hanoip/1.png) | ![](devices/hawao/1.png) |
