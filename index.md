@@ -10,7 +10,7 @@
 
 
 <center>
-<img src="intro.png" style="border-radius: 50%;" height="200" widht="200">
+<img src="intro.png" style="border-radius: 50%;" height="300" widht="300">
 </center>
 
 
