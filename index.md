@@ -26,8 +26,8 @@
 | ![](devices/Dubai/1.png) | ![](devices/Hanoip/1.png) | ![](devices/hawao/1.png) |
 | liber | Rhode | Rhodei |
 | ![](devices/liber/1.png) | ![](devices/Rhode/1.png) | ![](devices/Rhodei/1.png) |
-| Rhodep | Tundra | Xpeng |
-| ![](devices/Rhodep/1.png) | ![](devices/Tundra/1.png) | ![](devices/xpeng/1.png) |
+| Rhodep | Tundra |  |
+| ![](devices/Rhodep/1.png) | ![](devices/Tundra/1.png) |  |
 
 
 ---
