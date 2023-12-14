@@ -15,7 +15,7 @@
 
 
 ## Supported Device List 
-
+|	.	|	.	|	.	|
 |--------------------------|--------------------------|---------------------------|
 | Devon | Xpeng | Corfur |
 | ![](devices/Devon/1.png) | ![](devices/xpeng/1.png) | ![](devices/Corfur/1.png) |
