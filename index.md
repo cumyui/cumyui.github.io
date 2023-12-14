@@ -14,15 +14,16 @@
 </center>
 
 
-| Supported Device List |
-|---|---|---|
-|![[devices/Devon/1.png]]|![[devices/xpeng/1.png]]|![[devices/Corfur/1.png]]|
+## Supported Device List 
+| | | | 
+|--------------------------|--------------------------|---------------------------|
+| ![](devices/Devon/1.png) | ![](devices/xpeng/1.png) | ![](devices/Corfur/1.png) |
 | Devon | Xpeng | Corfur |
-|![[devices/Dubai/1.png]]|![[devices/Hanoip/1.png]]|![[devices/hawao/1.png]]|
+| ![](devices/Dubai/1.png) | ![](devices/Hanoip/1.png) | ![](devices/hawao/1.png) |
 | Dubai | Hanoip | hawao |
-|![[devices/liber/1.png]]|![[devices/Rhode/1.png]]|![[devices/Rhodei/1.png]]|
+| ![](devices/liber/1.png) | ![](devices/Rhode/1.png) | ![](devices/Rhodei/1.png) |
 | liber | Rhode | Rhodei |
-|![[devices/Rhodep/1.png]]|![[devices/Tundra/1.png]]|![[devices/xpeng/1.png]]|
+| ![](devices/Rhodep/1.png) | ![](devices/Tundra/1.png) | ![](devices/xpeng/1.png) |
 
 
 ---
