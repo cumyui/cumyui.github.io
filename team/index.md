@@ -2,6 +2,6 @@
 
 | Anand | radhe | LegendValt |
 |---|---|---|
-|![](team/Anand.jpg)| ![](team/radhe.jpg) |![[team/LegendValt.jpg]]
+|![](Anand.jpg)| ![](radhe.jpg) |![](LegendValt.jpg)|
 | GanyuLover89 |
-| ![](team/GanyuLover89.jpg)|
+| ![](GanyuLover89.jpg)|
