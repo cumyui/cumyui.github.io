@@ -6,7 +6,10 @@
 <h2><span>[ <a href="/">Home</a> | </span>
 	<span><a href="/wallpapers/">Wallapapers</a> | </span>
 	<span><a href="/team/">Team</a> | </span>
-	<span><a href="https://t.me/hanoipprojects">Support</a> ]</span>
+	<span>
+<span><a href="/about/">About Dev</a> | </span>
+	<span>
+<a href="https://t.me/hanoipprojects">Support</a> ]</span>
 </h2></center>
 
 
