@@ -3,7 +3,7 @@
 ![](images/xbanner.jpg)
 
 <center> 
-<h2><span>[ <a href="/index.md">Home</a> | </span>
+<h2><span>[ <a href="/">Home</a> | </span>
 	<span><a href="/wallpapers/">Wallapapers</a> | </span>
 	<span><a href="https://t.me/hanoipprojects">Support</a> ]</span>
 </h2></center>
