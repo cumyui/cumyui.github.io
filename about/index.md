@@ -2,7 +2,8 @@
 
 # Sapan Gajjar
 
-![](https://github.com/isg32/isg32.github.io/blob/main/files/avatar.png)
+![image](https://github.com/isg32/cumyui.github.io/assets/95901240/24049f51-33e8-4516-a61f-273eb7b0878f)
+
 
 # Hello!
 🔬 Summary: I'm isg32 (A.K.A. Sapan Gajjar) tiny developer from India-Ahmedabad.
@@ -21,12 +22,12 @@
 
 | #Achivements  |  #Changelog!? |
 |-------------------------|-------------------------| 
-| ![](https://github.com/isg32/isg32.github.io/blob/main/files/Sapan%20Gajjar%20-%20SSIP%202023%20Participant%20Certificate%20.jpg) |   [SSIP Hackathon 2023](https://github.com/isg32/isg32.github.io/blob/main/files/Sapan%20Gajjar%20-%20SSIP%202023%20Participant%20Certificate%20.pdf) Participation During Diploma Last year - 5th Semister, Coudn't make it to the finals Due to Lack of experience in team work and Having much more capable competitors, Hopefully planning to participate again while in degree.  |
-| ![](https://github.com/isg32/isg32.github.io/blob/main/files/cumyui.png) |  [MYUi Firmware Port/s](https://cumyui.github.io), for Moto G40f/60 which is Motorola's Custom software. |
-|![](https://github.com/isg32/isg32.github.io/blob/main/files/Pasted%20image%2020231112193000.png)| [Personal Website](https://isg32.github.io/index.html), that I have made as My first big achievement in Coding, Sadly it's Changed now to this page |
-|![](https://github.com/isg32/isg32.github.io/blob/main/files/Pasted%20image%2020231112193540.png)| [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a pir@cy website that is supposedly legal ;)|
+| ![image](https://github.com/isg32/cumyui.github.io/assets/95901240/bc55b108-5634-4766-a61f-2edcdf1d7567) |   [SSIP Hackathon 2023](https://github.com/isg32/isg32.github.io/blob/main/files/Sapan%20Gajjar%20-%20SSIP%202023%20Participant%20Certificate%20.pdf) Participation During Diploma Last year - 5th Semister, Coudn't make it to the finals Due to Lack of experience in team work and Having much more capable competitors, Hopefully planning to participate again while in degree.  |
+| ![image](https://github.com/isg32/cumyui.github.io/assets/95901240/5df944c9-f60f-4e84-be16-76865e759ac1) |  [MYUi Firmware Port/s](https://cumyui.github.io), for Moto G40f/60 which is Motorola's Custom software. |
+| ![image](https://github.com/isg32/cumyui.github.io/assets/95901240/d32a7ba8-b314-4b2c-8798-e94390218c95) | [Personal Website](https://isg32.github.io/index.html), that I have made as My first big achievement in Coding, Sadly it's Changed now to this page |
+| ![image](https://github.com/isg32/cumyui.github.io/assets/95901240/92c378e7-c8df-443c-a678-383e726cdf4c) | [Stream-teax2](https://isg32.github.io/projects/streamteax2/), a pir@cy website that is supposedly legal ;)|
 | ![image](https://github.com/isg32/isg32.github.io/assets/95901240/3443f785-6564-4e6a-8ef3-88d1dda24c21) |  Vid-Src CLI Program for [Python](https://github.com/isg32/vidsrc) and [shell](https://github.com/isg32/vidsrc-shell), its initial build of the above website. |
-| ![](https://github.com/isg32/isg32.github.io/blob/main/files/Pasted%20image%2020231112193835.png) |  [To-Stream](https://github.com/isg32/torestream), a torrent streaming service for shell, with search&play available. |
+| ![image](https://github.com/isg32/cumyui.github.io/assets/95901240/55111055-34bf-4593-8d92-fcb293b846a0) |  [To-Stream](https://github.com/isg32/torestream), a torrent streaming service for shell, with search&play available. |
 
 
 <h3 align="left">Connect with me:</h3>
