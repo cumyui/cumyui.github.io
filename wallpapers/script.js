@@ -3,17 +3,20 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Replace the placeholder URLs with the actual URLs of your images
     const imageUrls = [
-        '0001.png',
-        '0002.png',
-        '0003.png',
-        '0004.png',
-        '0005.png',
-        '0006.png',
-        '0007.png',
-        '0008.png',
-        '0009.png',
-        '0010.png',
-        '0011.png',
+        'Can You Kiss me More.png',
+	'Makima.png',
+	'YAE MIKO.png',
+	'MYUI0001.png',
+        'MYUI0002.png',
+        'CYBRPNK0003.png',
+        'MYUI0004.png',
+        'W0005.png',
+        'MYUI0006.png',
+        'MYUI0007.png',
+        'SHIP0008.png',
+        'MYUI.png',
+        'MYUI0010.png',
+        'MYUI0011.png',
         // Add more image URLs as needed
     ];
 
